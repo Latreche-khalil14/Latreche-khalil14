@@ -1,236 +1,251 @@
 <div align="center">
 
 <!-- ============================================================ -->
-<!--  HERO BANNER — replace the URL below with your own banner   -->
-<!--  Recommended: generate one at https://capsule-render.vercel.app -->
+<!--                    HERO BANNER & IDENTITY                    -->
 <!-- ============================================================ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Khalil%20Latreche&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%E2%80%A2%20Aspiring%20AI%20Engineer&descAlignY=58&descSize=18&descColor=a78bfa" alt="Header" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,35:1a153a,70:3b1d60,100:0d1117&height=220&section=header&text=KHALIL%20LATRECHE&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Science%20Researcher&descAlignY=58&descSize=19&descColor=c4b5fd" alt="Header Banner" width="100%" />
 
 <br/>
 
-### `Building intelligent systems that are trustworthy, explainable, and human-aligned.`
-
-<br/>
-
-<img src="https://img.shields.io/badge/Skikda%2C%20Algeria-%F0%9F%87%A9%F0%9F%87%BF-1a1a2e?style=flat-square&labelColor=0d1117" alt="Skikda, Algeria"/>
-
-<br/><br/>
-
-<a href="https://github.com/Latreche-khalil14">
-  <img src="https://img.shields.io/badge/GitHub-Latreche--khalil14-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/khalil-latreche">
-  <img src="https://img.shields.io/badge/LinkedIn-khalil--latreche-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
-</a>
-&nbsp;
+<!-- Dynamic Animated Typing Subtitle -->
 <a href="https://latreche-khalil.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-latreche--khalil.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&height=45&lines=Building+Trustworthy%2C+Explainable+%26+Local+AI+Systems;Top+6%25+Computer+Science+Graduate+(ISIL);Specialized+in+LLMs%2C+RAG+%26+Autonomous+Multi-Agent+Workflows;Creator+of+TraceX+%26+Enterprise+Multi-Modal+RAG+Platform" alt="Typing SVG" />
 </a>
-&nbsp;
-<a href="mailto:latreche.khalil.cs@gmail.com">
-  <img src="https://img.shields.io/badge/Email-latreche.khalil.cs-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
-</a>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Skikda%2C%20Algeria-%230b0f19?style=for-the-badge&logo=googlemaps&logoColor=38bdf8&labelColor=0d1117" alt="Location"/>
+  <img src="https://img.shields.io/badge/Cohort-Top%206%25%20Honors-%230b0f19?style=for-the-badge&logo=scikitlearn&logoColor=a78bfa&labelColor=0d1117" alt="Honors"/>
+  <img src="https://img.shields.io/badge/Research-English--Medium%20Thesis-%230b0f19?style=for-the-badge&logo=arxiv&logoColor=34d399&labelColor=0d1117" alt="Thesis"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20AI%20Roles-%230b0f19?style=for-the-badge&logo=statuspage&logoColor=f472b6&labelColor=0d1117" alt="Status"/>
+</p>
+
+<!-- Social & Quick Action Links -->
+<p align="center">
+  <a href="https://github.com/Latreche-khalil14">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/khalil-latreche">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://latreche-khalil.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-7928CA?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="mailto:latreche.khalil.cs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 </div>
 
-<br/>
+---
+
+### ⚡ Neural System Telemetry
+
+```zsh
+khalil@skikda-station:~$ sysinfo --verbose
+╭─────────────────────────────── System Profile ────────────────────────────────╮
+│  User       : Khalil Latreche (Dhiyaeddine)                                   │
+│  Education  : B.Sc. Computer Science (ISIL) — Univ. of 20 August 1955         │
+│  Rank       : Top 6% of Graduating Cohort                                     │
+│  Core Focus : LLMs, Multi-Agent Systems, Explainable AI (XAI), RAG Pipelines   │
+│  Thesis     : Explainable AI-Driven Resume Intelligence (Supervised by XAI)    │
+│  Flagship   : 100% Local Enterprise Multi-Modal RAG & TraceX Forensics Engine │
+│  Telemetry  : Sub-5s inference latency · Zero cloud data leakage architecture  │
+╰───────────────────────────────────────────────────────────────────────────────╯
+```
 
 ---
 
-## About Me
+## 🔬 About & Engineering Philosophy
 
-Computer Science graduate from the **University of 20 August 1955 – Skikda**, specializing in **Information Systems and Software Engineering (ISIL)** and ranked in the **top 6%** of the graduating cohort. My work sits at the convergence of applied AI engineering and principled software development — I build systems that are not just capable, but **interpretable**, **secure**, and **trustworthy**.
+I am a **Computer Science graduate** from the **University of 20 August 1955 – Skikda**, specializing in **Information Systems & Software Engineering (ISIL)**, where I graduated in the **top 6% of my cohort**.
 
-I have hands-on experience architecting **Retrieval-Augmented Generation** pipelines, **multi-agent systems**, and **explainable AI** applications — culminating in a bachelor's thesis on XAI-driven recruitment intelligence, supervised by Dr. Kissoum Yacine. Alongside AI research, I build production-grade software: enterprise RAG platforms, forensic analysis engines, and real-world client websites.
+My work bridges the gap between **academic AI research** and **hardened production engineering**:
+- **Transparency over Black Boxes**: AI should never make opaque decisions. I engineer explainable workflows using **SHAP**, **LIME**, and step-by-step reasoning telemetry.
+- **Privacy-First Local Intelligence**: Enterprise data belongs on-premise. I architect air-gapped RAG pipelines utilizing **Ollama**, **FAISS**, and **quantized open weights** to eliminate cloud compliance risks.
+- **Autonomous Multi-Agent Orchestration**: Moving past static prompts to collaborative networks of specialized agents with adaptive planning, self-correction, and tool interaction.
 
-> I believe the most important problems in AI right now are not only technical — they are about alignment, transparency, and robustness.
-
-<br/>
-
----
-
-## Technical Focus
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**AI & Intelligent Systems**
-- LLMs · RAG · Multi-Agent Systems
-- Explainable AI (XAI) · Trustworthy AI
-- LangChain · FAISS · ChromaDB · Ollama · GLiNER
-
-</td>
-<td valign="top" width="50%">
-
-**Languages & Engineering**
-- Python · TypeScript · JavaScript · C/C++ · PHP · SQL
-- FastAPI · React · Next.js · Vite · Node.js
-- Git · Docker · Vercel · Linux · LaTeX
-
-</td>
-</tr>
-</table>
-
-<br/>
+> *"The critical challenge of modern AI is not raw parameter count — it is building architectures that are verifiably trustworthy, privacy-compliant, and mathematically interpretable."*
 
 ---
 
-## Tech Stack
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
-<img src="https://img.shields.io/badge/FAISS-009ADE?style=flat-square&logo=meta&logoColor=white" alt="FAISS"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white" alt="ChromaDB"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C/C++"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+| Domain | Core Stack & Technologies |
+|:---|:---|
+| **AI & Intelligent Systems** | `LLMs` `RAG Pipelines` `Multi-Agent Orchestration` `Explainable AI (XAI)` `LangChain` `FAISS` `ChromaDB` `Ollama` `GLiNER` `SHAP` `Hugging Face` |
+| **Backend & Microservices** | `Python` `FastAPI` `REST APIs` `Server-Sent Events (SSE)` `Celery` `Redis` `Node.js` `PHP (PDO)` |
+| **Frontend & UI Engineering** | `TypeScript` `JavaScript` `React 18` `Next.js` `Vite` `Tailwind CSS` `Astro` `HTML5/CSS3` |
+| **Databases & Vector Stores** | `PostgreSQL` `MySQL` `FAISS (Cosine/L2)` `ChromaDB` `MongoDB` `SQLite` |
+| **DevOps & Engineering Tools** | `Docker` `Linux` `Git` `GitHub Actions` `Vercel` `VS Code` `LaTeX` |
 
 </div>
 
 <br/>
 
----
+<div align="center">
 
-## Featured Projects
+<!-- AI & Data -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/FAISS-009ADE?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 
 <br/>
+
+<!-- Modern Web & Systems -->
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
+</div>
+
+---
+
+## 🚀 Flagship Engineering Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🎓 Explainable AI-Driven Resume Intelligence
-*Bachelor's Thesis · 2025 – 2026 · Supervised by Dr. Kissoum Yacine*
+`Bachelor Thesis 2025–2026` · `Supervised by Dr. Kissoum Yacine`
 
-An intelligent recruitment platform built to address **screening opacity** through explainable multi-agent reasoning. Features a dual-stream RAG pipeline, architectural PII masking before cloud inference, and SHAP-style XAI visualizations with Celery/Redis background workers achieving sub-5-second response times.
+> **Multi-Agent Recruitment Platform with Sub-Surface Transparency**
 
-**Stack:** `Python` · `LangChain` · `ChromaDB` · `SHAP` · `Celery` · `Redis` · `Multi-Agent`
+- **Multi-Agent Orchestration**: Coordinating parallel workers (*Extraction, RAG, Matching, Gap Analysis, XAI*).
+- **Dual-Stream Context Engine**: Architectural PII sanitization before inference + Top-8 ChromaDB vector chunks.
+- **Production Scalability**: Integrated SHAP force-plot & waterfall visualizations with **Celery/Redis** workers achieving **sub-5s** response time.
+- **Language**: English-medium research, technical documentation & oral defense.
 
-<!-- ⚠ Replace the # below with your GitHub repo URL once published -->
-[`→ View Repository`](#)
+```text
+Stack: Python · LangChain · ChromaDB · SHAP · Celery · Redis · GLiNER
+```
+[**Explore Repository →**](https://github.com/Latreche-khalil14)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧠 Enterprise Multi-Modal RAG Knowledge Platform
-*2026*
+`Flagship Software 2026` · `100% Local & Privacy-First`
 
-A **100% local, privacy-first** RAG platform using Ollama (Qwen2.5) and FAISS vector embeddings. Supports 7+ document formats with automated chunking, real-time SSE-streamed reasoning steps, live pipeline telemetry (TTFT, token/sec), and a bilingual Arabic/English UI.
+> **GDPR-Compliant Autonomous Intelligence with Zero Cloud Leakage**
 
-**Stack:** `Python` · `FastAPI` · `React 18` · `TypeScript` · `LangChain` · `FAISS` · `Ollama` · `Vite`
+- **Air-Gapped Ingestion**: Supports 7+ formats (*PDF, DOCX, XLSX, CSV, TXT, MD, live web scraping*) with cosine-similarity ranking.
+- **Real-Time Observability**: Live telemetry drawer capturing TTFT, generation speed (tokens/sec), and FAISS retrieval ms.
+- **Transparent Reasoning**: Multi-phase reasoning steps streamed via **Server-Sent Events (SSE)**.
+- **Bilingual Interface**: Arabic/English auto-adaptation, speech-to-text, and instant inline bubble editing.
 
-<!-- ⚠ Replace the # below with your actual GitHub repo URL -->
-[`→ View Repository`](#)
+```text
+Stack: Python · FastAPI · React 18 · TypeScript · FAISS · Ollama · SSE
+```
+[**Explore Repository →**](https://github.com/Latreche-khalil14)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 TraceX — Event Timeline Forensics Engine
-*2026*
+### 🛡️ TraceX — Event Timeline Forensics Engine
+`Systems & Security 2026` · `Pure Python Forensic Architecture`
 
-A **deterministic log analysis engine** in pure Python (zero AI/database dependencies) that reconstructs chronological incident timelines using a finite state machine, detects 9 anomaly classes (timestamp regression, bot bursts, unauthenticated actions), and generates dual-theme HTML forensic dashboards.
+> **Deterministic Security Log Reconstructor & Anomaly Detector**
 
-**Stack:** `Python` · `Matplotlib` · `JSON/JSONL` · `HTML/CSS`
+- **Zero External Dependencies**: Operates with zero AI/database dependencies for forensic determinism.
+- **Finite State Machine**: In-memory FSM enforcing strict session boundaries and prerequisite event sequencing.
+- **9 Anomaly Heuristics**: Detects log tampering (timestamp regression), rapid bot bursts, duplicate sessions, and unauthorized actions.
+- **Reporting Engine**: Generates executive dual-theme HTML dashboards, Matplotlib forensic charts, and JSONL streams.
 
-<!-- ⚠ Replace the # below with your actual GitHub repo URL -->
-[`→ View Repository`](#)
+```text
+Stack: Python · Matplotlib · JSON Lines · FSM · HTML/CSS Dashboard
+```
+[**Explore Repository →**](https://github.com/Latreche-khalil14)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Ben Hieronta — Professional Business Website
-*Freelance Client · 2024 – 2025 · Finland*
+### 🌐 Ben Hieronta (Finland)
+`International Freelance 2024–2025` · `Client Production Site`
 
-Engineered and deployed a **responsive business website** for a Finnish massage therapy practice, integrating the Vello online appointment-booking system. Delivered through remote collaboration with an international client.
+> **High-Performance Business Platform with Vello Booking Integration**
 
-**Stack:** `HTML/CSS` · `JavaScript` · `Vello Integration`
+- **Client Collaboration**: Translated Scandinavian client requirements into a responsive, mobile-first production platform.
+- **Appointment Integration**: Seamlessly integrated the Finnish **Vello** online booking system.
+- **Performance & SEO**: Modern semantic layout, high PageSpeed score, and cross-browser reliability.
 
-<!-- ⚠ Replace the # below with the live site URL -->
-[`→ Live Site`](#)
+```text
+Stack: HTML5 · CSS3 · Modern JavaScript · Vello API · Responsive UI
+```
+[**View Live Deployment →**](https://latreche-khalil.vercel.app)
 
+</td>
+</tr>
+</table>
+
+---
+
+## 🏛️ Core Research Pillars
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                       RESEARCH & EXPLORATION PILLARS                        │
+├──────────────────────────────┬──────────────────────────────┬───────────────┤
+│ 🔍 Explainable AI (XAI)      │ 🛡️ Trustworthy & Secure AI  │ 🤖 Multi-Agent│
+├──────────────────────────────┼──────────────────────────────┼───────────────┤
+│ • Model interpretability     │ • Intent drift detection     │ • Autonomous  │
+│ • SHAP & LIME visualizations │ • Adversarial prompt defense │   coordination│
+│ • Decision transparency      │ • Zero data-leakage RAG      │ • Task        │
+│ • Auditable reasoning chains │ • Privacy-preserving masking │   decomposition
+└──────────────────────────────┴──────────────────────────────┴───────────────┘
+```
+
+---
+
+## 🏆 Honors & Certifications
+
+- 🥇 **Graduated in the Top 6%**: Information Systems and Software Engineering (ISIL) cohort.
+- 📜 **Certificate of Technical & Research Competency in AI**: Departmental honor by University of 20 August 1955.
+- 📜 **English-Medium Academic Research Certificate**: Official recognition for English-conducted thesis & defense.
+- 📜 **Elements of AI**: Certified in AI search algorithms, probabilistic reasoning, and ethical foundations.
+- 📜 **Kaggle Python Certification**: Algorithmic problem solving, numerical processing, and data logic.
+- 📜 **freeCodeCamp Certifications**: JavaScript Algorithms & Data Structures + Responsive Web Design.
+- 🤖 **Technical Robotics Mentor**: Guided youth robotics team to **2nd Place** in *Arduino Innovativo* competition.
+
+---
+
+## 📊 GitHub Intelligence & Activity
+
+<div align="center">
+
+<table border="0">
+<tr>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Latreche-khalil14&show_icons=true&theme=tokyonight&bg_color=0b0f19&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&border_color=21262d&rank_icon=github&count_private=true" alt="GitHub Stats" height="175"/>
+</td>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Latreche-khalil14&layout=compact&theme=tokyonight&bg_color=0b0f19&title_color=a78bfa&text_color=c9d1d9&border_color=21262d&langs_count=8" alt="Top Languages" height="175"/>
 </td>
 </tr>
 </table>
 
 <br/>
 
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Latreche-khalil14&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_color=30363d&hide_border=false&rank_icon=github&count_private=true" alt="GitHub Stats" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Latreche-khalil14&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=30363d&langs_count=7&hide=jupyter%20notebook" alt="Top Languages" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Latreche-khalil14&theme=tokyonight&background=0b0f19&ring=a78bfa&fire=38bdf8&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&border=21262d" alt="Streak Stats" width="85%" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Latreche-khalil14&theme=tokyonight&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&border=30363d" alt="Contribution Streak" />
-
-</div>
-
-<br/>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<!--
-  SNAKE ANIMATION SETUP
-  ─────────────────────
-  This animation is auto-generated by a GitHub Actions workflow.
-  To enable it on your profile repo, create the file:
-  .github/workflows/snake.yml with the following content:
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: Latreche-khalil14
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  Once run, the SVGs will be available at the URLs below.
--->
+<!-- Snake Contribution Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Latreche-khalil14/Latreche-khalil14/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Latreche-khalil14/Latreche-khalil14/output/github-contribution-grid-snake.svg" />
@@ -239,53 +254,30 @@ Engineered and deployed a **responsive business website** for a Finnish massage 
 
 </div>
 
-<br/>
-
 ---
 
-## Currently Exploring
-
-```text
-Advanced Python          ████████████████████░░░░   Deep-diving stdlib, async, and performance patterns
-Machine Learning         ██████████████████░░░░░░   Supervised, unsupervised, and reinforcement learning
-LLM Application Dev      ████████████████░░░░░░░░   Prompt engineering, fine-tuning, tool use
-RAG Systems              ██████████████░░░░░░░░░░   Vector stores, chunking strategies, reranking
-AI Agents                ████████████░░░░░░░░░░░░   Orchestration, memory, tool integration
-Data Analysis            ██████████░░░░░░░░░░░░░░   pandas, NumPy, EDA pipelines
-```
-
-<br/>
-
----
-
-## Research Interests
-
-| Area | Focus |
-|------|-------|
-| **Explainable AI** | Making model decisions human-interpretable and auditable |
-| **Trustworthy AI** | Building AI systems that are reliable, fair, and robust |
-| **Agent Security** | Detecting intent drift, prompt injection, and behavioral anomalies in AI agents |
-| **Model Interpretability** | SHAP, LIME, attention analysis, and mechanistic interpretability |
-| **Autonomous Intelligent Systems** | Multi-agent coordination, goal-directed behavior, and safe autonomy |
-
-<br/>
-
----
-
-## Connect
+## 📬 Let's Connect & Collaborate
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| **LinkedIn** | [linkedin.com/in/khalil-latreche](https://linkedin.com/in/khalil-latreche) |
-| **Portfolio** | [latreche-khalil.vercel.app](https://latreche-khalil.vercel.app) |
-| **Email** | [latreche.khalil.cs@gmail.com](mailto:latreche.khalil.cs@gmail.com) |
-
-</div>
+*Always open to discussing AI research, autonomous agent architectures, or innovative software engineering opportunities.*
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" alt="Footer" width="100%"/>
+<a href="https://linkedin.com/in/khalil-latreche">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://latreche-khalil.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Portfolio-7928CA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="mailto:latreche.khalil.cs@gmail.com">
+  <img src="https://img.shields.io/badge/Email-latreche.khalil.cs-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b1d60,40:1a153a,100:0a0e17&height=100&section=footer" alt="Footer Banner" width="100%"/>
+
 </div>

@@ -132,17 +132,49 @@ Computer Science graduate from the **University of 20 August 1955 – Skikda** (
 
 ### Research & System Architecture
 
-```
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                              CORE ARCHITECTURAL PILLARS                                │
-├──────────────────────────────┬──────────────────────────────┬──────────────────────────┤
-│ 🔍 Explainable AI (XAI)      │ 🛡️ Trustworthy & Safe AI    │ ⚡ Contextual Retrieval  │
-├──────────────────────────────┼──────────────────────────────┼──────────────────────────┤
-│ • Transparent decision paths │ • Intent alignment & drift   │ • Multi-format ingestion │
-│ • SHAP feature attribution   │ • PII boundary preservation  │ • Vector similarity      │
-│ • Model interpretability     │ • Robust agent constraints   │ • Streaming telemetry    │
-└──────────────────────────────┴──────────────────────────────┴──────────────────────────┘
-```
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="33%" align="center" valign="top" style="padding: 0 6px 0 0;">
+
+<table width="100%" cellspacing="0" cellpadding="20" border="0" style="border: 1px solid #D0D7DE; border-radius: 8px; background: #F6F8FA;">
+<tr><td>
+
+**🔍 Explainable AI (XAI)**
+
+Transparent decision paths · SHAP feature attribution · Model interpretability · Human-aligned explanations
+
+</td></tr>
+</table>
+
+</td>
+<td width="33%" align="center" valign="top" style="padding: 0 3px;">
+
+<table width="100%" cellspacing="0" cellpadding="20" border="0" style="border: 1px solid #D0D7DE; border-radius: 8px; background: #F6F8FA;">
+<tr><td>
+
+**🛡️ Trustworthy & Safe AI**
+
+Intent alignment & drift · PII boundary preservation · Robust agent constraints · Failure-mode analysis
+
+</td></tr>
+</table>
+
+</td>
+<td width="33%" align="center" valign="top" style="padding: 0 0 0 6px;">
+
+<table width="100%" cellspacing="0" cellpadding="20" border="0" style="border: 1px solid #D0D7DE; border-radius: 8px; background: #F6F8FA;">
+<tr><td>
+
+**⚡ Contextual Retrieval**
+
+Multi-format ingestion · Vector similarity search · Streaming telemetry · Hybrid retrieval pipelines
+
+</td></tr>
+</table>
+
+</td>
+</tr>
+</table>
 
 ---
 

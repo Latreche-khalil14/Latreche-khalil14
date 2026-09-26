@@ -53,8 +53,8 @@ khalil@skikda-station:~$ sysinfo --verbose
 │  Rank       : Top 6% of Graduating Cohort                                     │
 │  Core Focus : LLMs, Multi-Agent Systems, Explainable AI (XAI), RAG Pipelines   │
 │  Thesis     : Explainable AI-Driven Resume Intelligence (Supervised by XAI)    │
-│  Flagship   : 100% Local Enterprise Multi-Modal RAG & TraceX Forensics Engine │
-│  Telemetry  : Sub-5s inference latency · Zero cloud data leakage architecture  │
+│  Flagships  : TraceX Forensics Engine · Enterprise Multi-Modal RAG Platform   │
+│  Telemetry  : Sub-5s inference latency · 200+ Annual GitHub Contributions      │
 ╰───────────────────────────────────────────────────────────────────────────────╯
 ```
 
@@ -119,44 +119,6 @@ My work bridges the gap between **academic AI research** and **hardened producti
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Explainable AI-Driven Resume Intelligence
-`Bachelor Thesis 2025–2026` · `Supervised by Dr. Kissoum Yacine`
-
-> **Multi-Agent Recruitment Platform with Sub-Surface Transparency**
-
-- **Multi-Agent Orchestration**: Coordinating parallel workers (*Extraction, RAG, Matching, Gap Analysis, XAI*).
-- **Dual-Stream Context Engine**: Architectural PII sanitization before inference + Top-8 ChromaDB vector chunks.
-- **Production Scalability**: Integrated SHAP force-plot & waterfall visualizations with **Celery/Redis** workers achieving **sub-5s** response time.
-- **Language**: English-medium research, technical documentation & oral defense.
-
-```text
-Stack: Python · LangChain · ChromaDB · SHAP · Celery · Redis · GLiNER
-```
-[**Explore Repository →**](https://github.com/Latreche-khalil14)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Enterprise Multi-Modal RAG Knowledge Platform
-`Flagship Software 2026` · `100% Local & Privacy-First`
-
-> **GDPR-Compliant Autonomous Intelligence with Zero Cloud Leakage**
-
-- **Air-Gapped Ingestion**: Supports 7+ formats (*PDF, DOCX, XLSX, CSV, TXT, MD, live web scraping*) with cosine-similarity ranking.
-- **Real-Time Observability**: Live telemetry drawer capturing TTFT, generation speed (tokens/sec), and FAISS retrieval ms.
-- **Transparent Reasoning**: Multi-phase reasoning steps streamed via **Server-Sent Events (SSE)**.
-- **Bilingual Interface**: Arabic/English auto-adaptation, speech-to-text, and instant inline bubble editing.
-
-```text
-Stack: Python · FastAPI · React 18 · TypeScript · FAISS · Ollama · SSE
-```
-[**Explore Repository →**](https://github.com/Latreche-khalil14)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🛡️ TraceX — Event Timeline Forensics Engine
 `Systems & Security 2026` · `Pure Python Forensic Architecture`
 
@@ -170,28 +132,101 @@ Stack: Python · FastAPI · React 18 · TypeScript · FAISS · Ollama · SSE
 ```text
 Stack: Python · Matplotlib · JSON Lines · FSM · HTML/CSS Dashboard
 ```
-[**Explore Repository →**](https://github.com/Latreche-khalil14)
+[**Explore Repository →**](https://github.com/Latreche-khalil14/tracex-forensics-engine)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Ben Hieronta (Finland)
-`International Freelance 2024–2025` · `Client Production Site`
+### 🎓 Explainable AI-Driven Resume Intelligence
+`Bachelor Thesis 2025–2026` · `Supervised by Dr. Kissoum Yacine`
 
-> **High-Performance Business Platform with Vello Booking Integration**
+> **Multi-Agent Recruitment Platform with Sub-Surface Transparency**
 
-- **Client Collaboration**: Translated Scandinavian client requirements into a responsive, mobile-first production platform.
-- **Appointment Integration**: Seamlessly integrated the Finnish **Vello** online booking system.
-- **Performance & SEO**: Modern semantic layout, high PageSpeed score, and cross-browser reliability.
+- **Multi-Agent Orchestration**: Coordinating parallel workers (*Extraction, RAG, Matching, Gap Analysis, XAI*).
+- **Dual-Stream Context Engine**: Architectural PII sanitization before inference + Top-8 ChromaDB vector chunks.
+- **Production Scalability**: Integrated SHAP force-plot & waterfall visualizations with **Celery/Redis** workers achieving **sub-5s** response time.
+- **Language**: English-medium research, technical documentation & oral defense.
 
 ```text
-Stack: HTML5 · CSS3 · Modern JavaScript · Vello API · Responsive UI
+Stack: Python · LangChain · ChromaDB · SHAP · Celery · Redis · GLiNER
 ```
-[**View Live Deployment →**](https://latreche-khalil.vercel.app)
+[**Explore Profile Repositories →**](https://github.com/Latreche-khalil14)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Enterprise Multi-Modal RAG Knowledge Platform
+`Flagship Software 2026` · `100% Local & Privacy-First`
+
+> **GDPR-Compliant Autonomous Intelligence with Zero Cloud Leakage**
+
+- **Air-Gapped Ingestion**: Supports 7+ formats (*PDF, DOCX, XLSX, CSV, TXT, MD, live web scraping*) with cosine-similarity ranking.
+- **Real-Time Observability**: Live telemetry drawer capturing TTFT, generation speed (tokens/sec), and FAISS retrieval ms.
+- **Transparent Reasoning**: Multi-phase reasoning steps streamed via **Server-Sent Events (SSE)**.
+- **Interactive UI**: Context-aware follow-up engine, dual-theme dashboard, and instant inline bubble editing.
+
+```text
+Stack: Python · FastAPI · React 18 · TypeScript · FAISS · Ollama · SSE
+```
+[**Explore Chatbot Repository →**](https://github.com/Latreche-khalil14/chat-bot-)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 BAC Quest & Educational Platforms
+`Full-Stack Engineering` · `Production Web Systems`
+
+> **Interactive Practice & Exam Preparation Platform**
+
+- **Modern Architecture**: Built with TypeScript, React, and modular backend endpoints.
+- **Student Exam Workflow**: Tailored for Algerian high-school baccalaureate candidates with structured topic breakdown and evaluation.
+- **Systems Engineering**: Complementary work on secure web apps like [tech-store.php](https://github.com/Latreche-khalil14/tech-store.php) (Prepared Statements, CSRF mitigation, Bcrypt).
+
+```text
+Stack: TypeScript · React · Node.js · REST APIs · PHP (PDO)
+```
+[**Explore BAC Repository →**](https://github.com/Latreche-khalil14/bac)
 
 </td>
 </tr>
 </table>
+
+---
+
+## 📦 Pinned Open-Source Codebases
+
+<div align="center">
+
+<table border="0">
+<tr>
+<td width="50%">
+  <a href="https://github.com/Latreche-khalil14/tracex-forensics-engine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Latreche-khalil14&repo=tracex-forensics-engine&theme=tokyonight&bg_color=0b0f19&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&border_color=21262d" width="100%" alt="TraceX Forensics"/>
+  </a>
+</td>
+<td width="50%">
+  <a href="https://github.com/Latreche-khalil14/bac">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Latreche-khalil14&repo=bac&theme=tokyonight&bg_color=0b0f19&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&border_color=21262d" width="100%" alt="BAC Platform"/>
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <a href="https://github.com/Latreche-khalil14/chat-bot-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Latreche-khalil14&repo=chat-bot-&theme=tokyonight&bg_color=0b0f19&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&border_color=21262d" width="100%" alt="Chat Bot"/>
+  </a>
+</td>
+<td width="50%">
+  <a href="https://github.com/Latreche-khalil14/tech-store.php">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Latreche-khalil14&repo=tech-store.php&theme=tokyonight&bg_color=0b0f19&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&border_color=21262d" width="100%" alt="Tech Store"/>
+  </a>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 

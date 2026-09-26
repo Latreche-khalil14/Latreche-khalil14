@@ -21,7 +21,7 @@
 
 <!-- Clean Light Navigation Bar -->
 <p align="center">
-  <a href="https://linkedin.com/in/khalil-latreche">
+  <a href="https://www.linkedin.com/in/khalil-latreche-5a9a18382/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
@@ -182,7 +182,7 @@ Computer Science graduate from the **University of 20 August 1955 – Skikda** (
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/khalil-latreche">LinkedIn</a> &nbsp;•&nbsp; 
+<a href="https://www.linkedin.com/in/khalil-latreche-5a9a18382/">LinkedIn</a> &nbsp;•&nbsp; 
 <a href="https://latreche-khalil.vercel.app">Portfolio</a> &nbsp;•&nbsp; 
 <a href="mailto:latreche.khalil.cs@gmail.com">Email</a> &nbsp;•&nbsp; 
 <a href="https://github.com/Latreche-khalil14">GitHub</a>

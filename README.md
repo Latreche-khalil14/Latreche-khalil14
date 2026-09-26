@@ -10,7 +10,7 @@
 
 <!-- Real-Time Typing Role Subtitle -->
 <a href="https://latreche-khalil.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=800&height=42&lines=Specialized+in+Local+RAG%2C+LLMs+%26+Multi-Agent+Orchestration;Top+6%25+Computer+Science+Graduate+(ISIL)%2C+Skikda+University;Pioneering+Explainable+AI+(XAI)+%26+Intent+Drift+Detection;Author+of+TraceX+Forensics+%26+Local+Enterprise+RAG+Platform" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=800&height=42&lines=Specialized+in+Local+RAG%2C+LLMs+%26+Multi-Agent+Orchestration;Top+6%25+Computer+Science+Graduate+(ISIL)%2C+Skikda+University;Pioneering+Explainable+AI+(XAI)+%26+Model+Interpretability;Architect+of+Enterprise+Multi-Modal+RAG+%26+XAI+Systems" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -46,9 +46,9 @@
 
 <div align="center">
 
-| 🎓 Academic Standing | 🔒 Data Privacy | ⚡ XAI Performance | 🛡️ Security Forensics |
+| 🎓 Academic Standing | 🔒 Data Privacy | ⚡ XAI Performance | 🤖 Multi-Agent Systems |
 |:---:|:---:|:---:|:---:|
-| **Top 6% Cohort**<br/>`ISIL Specialization`<br/>*University of Skikda* | **Zero Cloud Leakage**<br/>`100% Local RAG`<br/>*GDPR-Ready Architecture* | **< 5s Inference**<br/>`SHAP + Celery / Redis`<br/>*Multi-Agent Orchestration* | **9 Anomaly Classes**<br/>`Pure Python FSM Engine`<br/>*Zero External Dependencies* |
+| **Top 6% Cohort**<br/>`ISIL Specialization`<br/>*University of Skikda* | **Zero Cloud Leakage**<br/>`100% Local RAG`<br/>*GDPR-Ready Architecture* | **< 5s Inference**<br/>`SHAP + Celery / Redis`<br/>*Multi-Agent Orchestration* | **5 Autonomous Agents**<br/>`Parallel Orchestration`<br/>*Adaptive Task Decomposition* |
 
 </div>
 
@@ -65,7 +65,7 @@ My engineering work focuses on solving the fundamental bottlenecks of enterprise
 
 ---
 
-## 🚀 Flagship Engineering Showcases
+## 🚀 Flagship AI Engineering Systems
 
 <table>
 <tr>
@@ -101,41 +101,6 @@ My engineering work focuses on solving the fundamental bottlenecks of enterprise
 **Stack:** `Python` · `LangChain` · `ChromaDB` · `SHAP` · `Celery` · `Redis` · `GLiNER`
 
 [**→ View Profile Codebases**](https://github.com/Latreche-khalil14)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ TraceX — Event Timeline Forensics Engine
-`Systems & Security · 2026` · `Deterministic Forensic Architecture`
-
-> **The Problem:** Security event reconstruction typically depends on heavy, non-deterministic databases or opaque ML heuristics.
-
-- **Zero-Dependency Core:** Engineered in pure Python for deterministic, bit-level incident reproducibility.
-- **Finite State Machine:** In-memory FSM enforcing strict session boundaries and prerequisite event ordering.
-- **9 Anomaly Heuristics:** Pinpoints timestamp regressions, rapid bot bursts, duplicate sessions, and privilege escalation.
-- **Executive Reporting:** Generates dual-theme HTML dashboards, Matplotlib visual timelines, and structured JSONL streams.
-
-**Stack:** `Python` · `Finite State Machine` · `Matplotlib` · `JSON Lines` · `HTML/CSS`
-
-[**→ View TraceX Repository**](https://github.com/Latreche-khalil14/tracex-forensics-engine)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 BAC Quest & Production Platforms
-`Full-Stack Engineering` · `Production Web Systems`
-
-> **The Problem:** Delivering robust, high-performance web platforms for both education and international commercial operations.
-
-- **BAC Quest Platform:** Interactive revision and practice system for Algerian high-school candidates, built with TypeScript and React.
-- **Secure Systems Implementation:** Engineered [tech-store.php](https://github.com/Latreche-khalil14/tech-store.php) with PDO prepared statements (SQL injection mitigation), CSRF tokens, and Bcrypt.
-- **International Client Delivery:** Deployed responsive business platform for **Ben Hieronta (Finland)** with Vello online booking integration.
-
-**Stack:** `TypeScript` · `React` · `Node.js` · `PHP (PDO)` · `Tailwind CSS`
-
-[**→ View BAC Repository**](https://github.com/Latreche-khalil14/bac)
 
 </td>
 </tr>
@@ -197,41 +162,6 @@ My engineering work focuses on solving the fundamental bottlenecks of enterprise
 │ • Elimination of black boxes │ • Architectural PII masking  │ • Real-time telemetry    │
 └──────────────────────────────┴──────────────────────────────┴──────────────────────────┘
 ```
-
----
-
-## 📦 Pinned Open-Source Codebases
-
-<div align="center">
-
-<table border="0">
-<tr>
-<td width="50%">
-  <a href="https://github.com/Latreche-khalil14/tracex-forensics-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Latreche-khalil14&repo=tracex-forensics-engine&theme=tokyonight&bg_color=0b0f19&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&border_color=21262d" width="100%" alt="TraceX Forensics"/>
-  </a>
-</td>
-<td width="50%">
-  <a href="https://github.com/Latreche-khalil14/chat-bot-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Latreche-khalil14&repo=chat-bot-&theme=tokyonight&bg_color=0b0f19&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&border_color=21262d" width="100%" alt="Enterprise RAG Chatbot"/>
-  </a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-  <a href="https://github.com/Latreche-khalil14/bac">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Latreche-khalil14&repo=bac&theme=tokyonight&bg_color=0b0f19&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&border_color=21262d" width="100%" alt="BAC Quest"/>
-  </a>
-</td>
-<td width="50%">
-  <a href="https://github.com/Latreche-khalil14/tech-store.php">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Latreche-khalil14&repo=tech-store.php&theme=tokyonight&bg_color=0b0f19&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&border_color=21262d" width="100%" alt="Secure Tech Store"/>
-  </a>
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 

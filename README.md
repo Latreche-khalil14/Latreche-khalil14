@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ============================================================ -->
-<!--                    HERO & IDENTITY                           -->
+<!--                    HERO & IDENTITY (LIGHT MODE)              -->
 <!-- ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f6f8fa,50:ffffff,100:f6f8fa&height=110&section=header" alt="Header" width="100%" />
 
 # KHALIL LATRECHE
 **AI ENGINEER · COMPUTER SCIENCE · RESEARCH**
@@ -20,22 +20,22 @@
   <code>Open to AI Roles & Research</code>
 </p>
 
-<!-- Minimal Navigation Bar -->
+<!-- Clean Light Navigation Bar -->
 <p align="center">
   <a href="https://linkedin.com/in/khalil-latreche">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=38bdf8" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://latreche-khalil.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=e6edf3" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0969DA?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
   <a href="mailto:latreche.khalil.cs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=ea4335" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://github.com/Latreche-khalil14">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=a78bfa" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -154,26 +154,22 @@ Computer Science graduate from the **University of 20 August 1955 – Skikda**, 
 <table border="0">
 <tr>
 <td align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Latreche-khalil14&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=8B949E&border_color=21262D&rank_icon=github&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Latreche-khalil14&show_icons=true&theme=default&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F&border_color=D0D7DE&rank_icon=github&count_private=true" alt="GitHub Stats" height="165"/>
 </td>
 <td align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Latreche-khalil14&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=8B949E&border_color=21262D&langs_count=6" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Latreche-khalil14&layout=compact&theme=default&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&border_color=D0D7DE&langs_count=6" alt="Top Languages" height="165"/>
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Latreche-khalil14&theme=tokyonight&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=8B949E&dates=8B949E&border=21262D" alt="Streak Stats" width="85%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Latreche-khalil14&theme=default&background=FFFFFF&border=D0D7DE&stroke=0969DA&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A" alt="Streak Stats" width="85%" />
 
 <br/><br/>
 
-<!-- Contribution Activity Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Latreche-khalil14/Latreche-khalil14/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Latreche-khalil14/Latreche-khalil14/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Latreche-khalil14/Latreche-khalil14/output/github-contribution-grid-snake.svg" />
-</picture>
+<!-- Contribution Activity Graph (Light Mode) -->
+<img alt="Contribution Snake" src="https://raw.githubusercontent.com/Latreche-khalil14/Latreche-khalil14/output/github-contribution-grid-snake.svg" />
 
 </div>
 

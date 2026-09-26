@@ -17,6 +17,7 @@
 <p align="center">
   <code>Skikda, Algeria</code> &nbsp;•&nbsp; 
   <code>B.Sc. Computer Science (ISIL)</code> &nbsp;•&nbsp; 
+  <code>M.Sc. AI (In Progress)</code> &nbsp;•&nbsp; 
   <code>Open to AI Roles & Research</code>
 </p>
 
@@ -45,7 +46,7 @@
 
 ### About
 
-Computer Science graduate from the **University of 20 August 1955 – Skikda**, specializing in **Information Systems & Software Engineering (ISIL)**. My work centers on applied AI engineering and intelligent systems, with a particular focus on retrieval-augmented generation (RAG), multi-agent orchestration, and explainable AI (XAI). I am passionate about moving beyond black-box systems by developing architectures that are interpretable, reliable, and grounded in sound software engineering principles.
+Computer Science graduate from the **University of 20 August 1955 – Skikda** (ISIL) currently pursuing an **M.Sc. in Artificial Intelligence**. My work centers on applied AI engineering and intelligent systems, with a particular focus on retrieval-augmented generation (RAG), multi-agent orchestration, and explainable AI (XAI). I am passionate about moving beyond black-box systems by developing architectures that are interpretable, reliable, and grounded in sound software engineering principles.
 
 ---
 

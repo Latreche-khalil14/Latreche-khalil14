@@ -155,22 +155,22 @@ Computer Science graduate from the **University of 20 August 1955 – Skikda** (
 <table border="0">
 <tr>
 <td align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Latreche-khalil14&show_icons=true&theme=default&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F&border_color=D0D7DE&rank_icon=github&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Latreche-khalil14&show_icons=true&theme=default&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F&border_color=D0D7DE&rank_icon=github&count_private=true" alt="GitHub Stats" height="165"/>
 </td>
 <td align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Latreche-khalil14&layout=compact&theme=default&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&border_color=D0D7DE&langs_count=6" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Latreche-khalil14&layout=compact&theme=default&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&border_color=D0D7DE&langs_count=6" alt="Top Languages" height="165"/>
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Latreche-khalil14&theme=default&background=FFFFFF&border=D0D7DE&stroke=0969DA&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A" alt="Streak Stats" width="85%" />
+<img src="https://streak-stats.demolab.com/?user=Latreche-khalil14&theme=default&background=FFFFFF&border=D0D7DE&stroke=0969DA&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A" alt="Streak Stats" width="85%" />
 
 <br/><br/>
 
-<!-- Contribution Activity Graph (Light Mode) -->
-<img alt="Contribution Snake" src="https://raw.githubusercontent.com/Latreche-khalil14/Latreche-khalil14/output/github-contribution-grid-snake.svg" />
+<!-- Live GitHub Contribution Calendar Graph -->
+<img src="https://ghchart.rshah.org/0969da/Latreche-khalil14" alt="Contribution Graph" width="95%" />
 
 </div>
 

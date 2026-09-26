@@ -132,78 +132,19 @@ Computer Science graduate from the **University of 20 August 1955 – Skikda** (
 
 ### Research & System Architecture
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tr>
-<td width="33%" valign="top" style="padding: 0 6px 10px 0;">
-<table width="100%" cellspacing="0" cellpadding="16" border="0" style="border: 1px solid #D0D7DE; border-radius: 8px; background: #F6F8FA;">
-<tr><td>
+| 🔍 Explainable AI (XAI) | 🛡️ Trustworthy & Safe AI | ⚡ Contextual Retrieval |
+|:--|:--|:--|
+| Transparent decision paths | Intent alignment & drift | Multi-format ingestion |
+| SHAP feature attribution | PII boundary preservation | Vector similarity search |
+| Model interpretability | Robust agent constraints | Hybrid retrieval pipelines |
+| Human-aligned explanations | Failure-mode analysis | Streaming telemetry |
 
-**🔍 Explainable AI (XAI)**
-
-Transparent decision paths · SHAP attribution · Model interpretability · Human-aligned outputs
-
-</td></tr>
-</table>
-</td>
-<td width="33%" valign="top" style="padding: 0 3px 10px 3px;">
-<table width="100%" cellspacing="0" cellpadding="16" border="0" style="border: 1px solid #D0D7DE; border-radius: 8px; background: #F6F8FA;">
-<tr><td>
-
-**🛡️ Trustworthy & Safe AI**
-
-Intent alignment & drift · PII preservation · Agent constraints · Failure-mode analysis
-
-</td></tr>
-</table>
-</td>
-<td width="33%" valign="top" style="padding: 0 0 10px 6px;">
-<table width="100%" cellspacing="0" cellpadding="16" border="0" style="border: 1px solid #D0D7DE; border-radius: 8px; background: #F6F8FA;">
-<tr><td>
-
-**⚡ Contextual Retrieval**
-
-Multi-format ingestion · Vector similarity · Hybrid retrieval · Streaming telemetry
-
-</td></tr>
-</table>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top" style="padding: 0 6px 0 0;">
-<table width="100%" cellspacing="0" cellpadding="16" border="0" style="border: 1px solid #D0D7DE; border-radius: 8px; background: #F6F8FA;">
-<tr><td>
-
-**🤖 Multi-Agent Systems**
-
-Orchestration patterns · Task decomposition · Inter-agent communication · Autonomous pipelines
-
-</td></tr>
-</table>
-</td>
-<td width="33%" valign="top" style="padding: 0 3px 0 3px;">
-<table width="100%" cellspacing="0" cellpadding="16" border="0" style="border: 1px solid #D0D7DE; border-radius: 8px; background: #F6F8FA;">
-<tr><td>
-
-**🧠 LLM Engineering**
-
-Prompt engineering · Fine-tuning · Context window management · Inference optimization
-
-</td></tr>
-</table>
-</td>
-<td width="33%" valign="top" style="padding: 0 0 0 6px;">
-<table width="100%" cellspacing="0" cellpadding="16" border="0" style="border: 1px solid #D0D7DE; border-radius: 8px; background: #F6F8FA;">
-<tr><td>
-
-**📊 Data & Evaluation**
-
-Benchmark design · Evaluation pipelines · Dataset curation · Performance profiling
-
-</td></tr>
-</table>
-</td>
-</tr>
-</table>
+| 🤖 Multi-Agent Systems | 🧠 LLM Engineering | 📊 Data & Evaluation |
+|:--|:--|:--|
+| Orchestration patterns | Prompt engineering | Benchmark design |
+| Task decomposition | Fine-tuning & PEFT | Evaluation pipelines |
+| Inter-agent communication | Context window management | Dataset curation |
+| Autonomous pipelines | Inference optimization | Performance profiling |
 
 ---
 

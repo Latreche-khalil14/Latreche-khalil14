@@ -4,8 +4,6 @@
 <!--                    HERO & IDENTITY (LIGHT MODE)              -->
 <!-- ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f6f8fa,50:ffffff,100:f6f8fa&height=110&section=header" alt="Header" width="100%" />
-
 # KHALIL LATRECHE
 **AI ENGINEER · COMPUTER SCIENCE · RESEARCH**
 
